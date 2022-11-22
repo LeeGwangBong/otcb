@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4a6c05625fd021a8f54d624e49d90cdb10e03f71",
+  "SCAN_LINK": "https://polygonscan.com/address/0x4a6c05625fd021a8f54d624e49d90cdb10e03f71",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "off-the-chain-bulldogz-v1",
+  "SYMBOL": "OTCB",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 210000,
+  "MARKETPLACE": "OpeanSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/off-the-chain-bulldogz-v1",
+  "SHOW_BACKGROUND": true
+}
