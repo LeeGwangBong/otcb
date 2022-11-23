@@ -83,9 +83,11 @@ export const StyledImg = styled.img`
   border-radius: 100%;
   width: 200px;
   @media (min-width: 900px) {
+    opacity : 0;
     width: 250px;
   }
   @media (min-width: 1000px) {
+    opacity : 0;
     width: 300px;
   }
   transition: width 0.5s;
@@ -209,7 +211,7 @@ function App() {
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
-            <StyledImg alt={""} src={"/"} />
+            <StyledImg alt={"newlogo"} src={"/config/images/newLogo.png"} />
           </s.Container>
           <s.SpacerLarge />
           <s.Container
